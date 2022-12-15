@@ -14,4 +14,10 @@ while i <= 100:
         print(i)
     i += 1
     
-print('Fim do programa')
+print('Fim do programa, com While')
+
+###### usando FOR ######
+#
+for i in range(1,100,3):
+    print(f'{i}')
+

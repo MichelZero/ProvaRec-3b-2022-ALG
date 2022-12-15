@@ -21,3 +21,4 @@ print('Fim do programa, com While')
 for i in range(1,100,3):
     print(f'{i}')
 
+print("fim do programa, com FOR")
